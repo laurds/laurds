@@ -1,4 +1,4 @@
-### Hii, I'm Laura! Welcome to the my GitHub. 👋🏽
+### Hii, I'm Laura! Welcome to my GitHub. 👋🏽
 
 
 - 🔭 I’m currently working as a technical support.

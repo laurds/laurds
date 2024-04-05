@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working as a developer
-- 🌱 I’m currently learning about all 😂 ... but in specific HTML, CSS, JavaScript and PHP.
+- 🌱 I’m currently learning about all 😂 ... but in specific JavaScript, PHP and C#.
 - 📩 laurarochamarchese@gmail.com
 - 💖 I love 🐨 and 🐱.
